@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "d5d3c63705f5c541",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e26c35f6a7e6b27",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d2beec85c7000a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee745bc532b910db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a61299670ee42aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12117eb9e7650b5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98373ece76bce665",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab614b65d4bc3bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28dad4fca7aa021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e26c35f6a7e6b27",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Drawing 2022-04-11 12.07.19.excalidraw.md",
+    "docs/Topic 2/Note 3.md"
+  ]
+}
